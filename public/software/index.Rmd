@@ -1,0 +1,19 @@
+---
+title: "R Packages"
+author: "Lewis A. Jones"
+date: 2022-05-07
+---
+### <span style="color: #ed4d7e"><a href="https://github.com/LewisAJones/palaeoverse" style="text-decoration: none;">palaeoverse</a></span>
+
+<p align="justify">'palaeoverse' is an R Package developed by palaeobiologists, for palaeobiologists. It provides a standardised toolkit of generic functions to carry out routine tasks in palaeobiological studies. The package offers a range of functionality including time, latitudinal, and spatial binning, palaeorotation of fossil occurrences, time series plotting, and much more. The package has two key objectives: (1) save time for palaeobiologists by providing generic and simple-use functions; and (2) generate a community-driven package. It is my hope that over time, palaeoverse will be adopted and developed by the community, with contributors and users from all over the world. The package is still currently in development, but its initial release is scheduled for Autumn 2022.</p>
+
+<p align="justify">An important note: while I have led this project, this has been by no means a solo task. I have many amazing collaborators to thank for their contributions. Please do check them out under the contributors section of the GitHub repository</p>
+
+### <span style="color: #ed4d7e"><a href="https://github.com/KEichenseer/pclimR" style="text-decoration: none;">pclimR</a></span>
+
+<p align="justify">'pclimR' is an R Package developed by [Kilian Eichenseer](https://github.com/KEichenseer) and I to provide easily-accessible palaeoclimatic data from a range of sources (e.g. δ^18^O data, palaeoclimatic simulations). In addition, the package provides functionality for implementing a Bayesian approach to reconstruct global mean temperatures and latitudinal temperature gradients. </p>
+
+### <span style="color: #ed4d7e"><a href="https://github.com/LewisAJones/london" style="text-decoration: none;">london</a></span>
+
+<p align="justify">'london' is an R Package developed by Paloma Sánchez Osuna and I to provide colour palettes inspired by the City of London. The package includes colours palettes sampled from works housed in Tate Britain, London's tube map and much more. This R package also provides the option for users to generate their own colour palette from their favourite works or images.</p>
+

@@ -1,0 +1,28 @@
+---
+title: ""
+author: "Lewis A. Jones"
+date: 2022-05-07
+---
+Now and then, I take photographs. Here are some shots I have collected over the years.
+
+<p align="center">
+![White Sands, USA](White_Sands.jpg){width=100%}White Sands, USA.  
+<br>
+![Switzerland](Arolla.jpg){width=100%}Arolla, Switzerland.  
+<br>
+![Overpass](Overpass.jpg){width=100%}Wolf Creek, USA.  
+<br>
+![Allgau](Allgau.jpg){width=100%}Allgäu, Germany.  
+<br>
+![Deer](Deer.jpg){width=100%}Richmond Park, UK.  
+<br>
+![Portrait](Portrait1.jpg){width=75%}Hull, UK.  
+<br>
+![Disturbia](Disturbia.jpg){width=75%}Hull, UK.   
+<br>
+![Experimental](Steel_Wool.jpg){width=100%}Hull, UK.    
+<br>
+![Street-food market, Harbin, China.](China_2.jpg){width=100%}Street food market, Harbin, China.  
+<br>
+![Harbin, China.](China_3.jpg){width=100%}Harbin, China.  
+</p>

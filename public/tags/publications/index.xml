@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Lewis A. Jones</title>
+    <link>https://example.com/tags/publications/</link>
+    <description>Recent content in Publications on Lewis A. Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/publications/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/</guid>
+      <description>Peer-reviewed publications Lewis A. Jones, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (In press). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. Nature Communications.
+ Lewis A. Jones and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. Geology 50 (2), 238–242. View graphical abstract.
+ Lewis A. Jones, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021).</description>
+    </item>
+    
+  </channel>
+</rss>
