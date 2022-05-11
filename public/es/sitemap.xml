@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.lewisajones.com/es/categories/</loc>
+    <loc>https://lewisajones.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.lewisajones.com/categories/"
+                href="https://lewisajones.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.lewisajones.com/es/categories/"
+                href="https://lewisajones.com/es/categories/"
                 />
   </url><url>
-    <loc>www.lewisajones.com/es/</loc>
+    <loc>https://lewisajones.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.lewisajones.com/"
+                href="https://lewisajones.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.lewisajones.com/es/"
+                href="https://lewisajones.com/es/"
                 />
   </url><url>
-    <loc>www.lewisajones.com/es/series/</loc>
+    <loc>https://lewisajones.com/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.lewisajones.com/series/"
+                href="https://lewisajones.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.lewisajones.com/es/series/"
+                href="https://lewisajones.com/es/series/"
                 />
   </url><url>
-    <loc>www.lewisajones.com/es/tags/</loc>
+    <loc>https://lewisajones.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.lewisajones.com/tags/"
+                href="https://lewisajones.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.lewisajones.com/es/tags/"
+                href="https://lewisajones.com/es/tags/"
                 />
   </url>
 </urlset>

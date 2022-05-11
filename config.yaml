@@ -1,4 +1,4 @@
-baseURL: www.lewisajones.com
+baseURL: "https://lewisajones.com/"
 title: Lewis A. Jones
 languageCode: en-us
 theme: hugo-theme-hello-friend-ng

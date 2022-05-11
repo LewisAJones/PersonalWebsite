@@ -1,23 +1,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Lewis A. Jones</title>
-        <link>www.lewisajones.com/posts/</link>
+        <link>https://lewisajones.com/posts/</link>
         <description>Recent content in Posts on Lewis A. Jones</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="www.lewisajones.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lewisajones.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Uneven spatial sampling and reconstructing past global temperatures</title>
-            <link>www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</link>
+            <link>https://lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</link>
             <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
             
-            <guid>www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</guid>
+            <guid>https://lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</guid>
             <description>Accounting for the spatial nature of proxy records is crucial to improving reconstructions of past global temperature.</description>
             <content type="html"><![CDATA[
-<script src="www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/index.en_files/header-attrs/header-attrs.js"></script>
+<script src="https://lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/index.en_files/header-attrs/header-attrs.js"></script>
 
 <!DOCTYPE html>
 <html>
@@ -81,13 +81,13 @@ text-align: justify}
         
         <item>
             <title>The Latitudinal Biodiversity Gradient</title>
-            <link>www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</link>
+            <link>https://lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</link>
             <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
             
-            <guid>www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</guid>
+            <guid>https://lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</guid>
             <description>One of the most prominent macroecological patterns on Earth today.</description>
             <content type="html"><![CDATA[
-<script src="www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/index.en_files/header-attrs/header-attrs.js"></script>
+<script src="https://lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/index.en_files/header-attrs/header-attrs.js"></script>
 
 
 <p align="justify">
