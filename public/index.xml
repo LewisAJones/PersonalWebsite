@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lewis A. Jones</title>
-    <link>https://example.com/</link>
+    <link>https://www.lewisajones.com/</link>
     <description>Recent content on Lewis A. Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lewisajones.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://example.com/posts/2014/09/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Curriculum Vitae</title>
+      <link>https://www.lewisajones.com/experience/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2014/09/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/posts/2014/03/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/gallery/gallery/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/gallery/gallery/</guid>
-      <description>Now and then, I like to take photographs. These are some of the shots I have collected over the years.</description>
+      <guid>https://www.lewisajones.com/experience/</guid>
+      <description>Lewis A. Jones Postdoctoral Research Fellow Vigo, Spain LewisAlan.Jones@uvigo.es Education PhD in Earth Sciences (2016–2020) Imperial College London, London, UK Research advisors: Dr Philip D. Mannion &amp;amp; Prof. Peter A. Allison Thesis title: On the detectability of the latitudinal biodiversity gradient in deep time
+MPhysGeog in Physical Geography (2011–2015) University of Hull, Hull, UK Research advisors: Prof. David P.G. Bond Thesis title: The End-Triassic mass extinction. An investigation of the British Geological Record: Testing for the role of volcanism and ocean anoxia.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://example.com/research/</link>
+      <link>https://www.lewisajones.com/research/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
-      <description></description>
+      <guid>https://www.lewisajones.com/research/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.lewisajones.com/gallery/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lewisajones.com/gallery/</guid>
+      <description>  Now and then, I take photographs. Here are some shots I have collected over the years.
+White Sands, USA.
+Wolf Creek, USA.
+Arolla, Switzerland.
+Allgäu, Germany.
+Richmond Park, UK.
+Hull, UK.
+Hull, UK.
+Hull, UK.
+Street food market, Harbin, China.
+Shenyang, China.
+Harbin, China. </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://www.lewisajones.com/about/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://www.lewisajones.com/about/</guid>
       <description>Lewis A. Jones, PhD
 Postdoctoral Research Fellow
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo LewisAlan.Jones@uvigo.es
@@ -61,10 +61,10 @@ I am a computational palaeobiologist investigating the drivers of biodiversity p
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/publications/</link>
+      <link>https://www.lewisajones.com/publications/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/</guid>
+      <guid>https://www.lewisajones.com/publications/</guid>
       <description>Peer-reviewed publications Lewis A. Jones, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (In press). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. Nature Communications.
  Lewis A. Jones and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. Geology 50 (2), 238–242. View graphical abstract.
  Lewis A. Jones, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021).</description>
@@ -72,42 +72,29 @@ I am a computational palaeobiologist investigating the drivers of biodiversity p
     
     <item>
       <title>R Packages</title>
-      <link>https://example.com/software/</link>
+      <link>https://www.lewisajones.com/software/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/software/</guid>
+      <guid>https://www.lewisajones.com/software/</guid>
       <description>palaeoverse ‘palaeoverse’ is an R Package developed by palaeobiologists, for palaeobiologists. It provides a standardised toolkit of generic functions to carry out routine tasks in palaeobiological studies. The package offers a range of functionality including time, latitudinal, and spatial binning, palaeorotation of fossil occurrences, time series plotting, and much more. The package has two key objectives: (1) save time for palaeobiologists by providing generic and simple-use functions; and (2) generate a community-driven package.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://example.com/posts/2020/12/hello-r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Uneven spatial sampling and reconstructing past global temperatures</title>
+      <link>https://www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2020/12/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+      <guid>https://www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</guid>
+      <description>Accounting for the spatial nature of proxy records is crucial to improving reconstructions of past global temperature.</description>
     </item>
     
     <item>
-      <title>Création d&#39;un nouveau thème</title>
-      <link>https://example.com/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>The Latitudinal Biodiversity Gradient</title>
+      <link>https://www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</guid>
-      <description>Introduction Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.
-Nous allons commencer par créer un nouveau site avec un modèle très basique.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://example.com/posts/2014/04/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/posts/2014/04/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
+      <guid>https://www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</guid>
+      <description>One of the most prominent macroecological patterns on Earth today.</description>
     </item>
     
   </channel>

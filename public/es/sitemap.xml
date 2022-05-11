@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/es/categories/</loc>
+    <loc>https://www.lewisajones.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://www.lewisajones.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="https://www.lewisajones.com/es/categories/"
                 />
   </url><url>
-    <loc>https://example.com/es/</loc>
+    <loc>https://www.lewisajones.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://www.lewisajones.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://www.lewisajones.com/es/"
                 />
   </url><url>
-    <loc>https://example.com/es/series/</loc>
+    <loc>https://www.lewisajones.com/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://www.lewisajones.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/series/"
+                href="https://www.lewisajones.com/es/series/"
                 />
   </url><url>
-    <loc>https://example.com/es/tags/</loc>
+    <loc>https://www.lewisajones.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://www.lewisajones.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://www.lewisajones.com/es/tags/"
                 />
   </url>
 </urlset>
