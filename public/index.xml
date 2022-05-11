@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lewis A. Jones</title>
-    <link>http://www.lewisajones.com/</link>
+    <link>www.lewisajones.com/</link>
     <description>Recent content on Lewis A. Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.lewisajones.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="www.lewisajones.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://www.lewisajones.com/experience/</link>
+      <link>www.lewisajones.com/experience/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/experience/</guid>
+      <guid>www.lewisajones.com/experience/</guid>
       <description>Lewis A. Jones Postdoctoral Research Fellow Vigo, Spain LewisAlan.Jones@uvigo.es Education  PhD in Earth Sciences (2016–2020) Imperial College London, London, UK Research advisors: Dr Philip D. Mannion &amp;amp; Prof. Peter A. Allison Thesis title: On the detectability of the latitudinal biodiversity gradient in deep time
 MPhysGeog in Physical Geography (2011–2015) University of Hull, Hull, UK Research advisor: Prof. David P.G. Bond Thesis title: The End-Triassic mass extinction. An investigation of the British Geological Record: testing for the role of volcanism and ocean anoxia CMI (Level 5) in Management and Leadership (2012–2015) Leeds University Officer Training Corps, Leeds, UK</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://www.lewisajones.com/research/</link>
+      <link>www.lewisajones.com/research/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/research/</guid>
+      <guid>www.lewisajones.com/research/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.lewisajones.com/gallery/</link>
+      <link>www.lewisajones.com/gallery/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/gallery/</guid>
+      <guid>www.lewisajones.com/gallery/</guid>
       <description>  Now and then, I take photographs. Here are some shots I have collected over the years.
 White Sands, USA.
 Wolf Creek, USA.
@@ -49,10 +49,10 @@ Harbin, China. </description>
     
     <item>
       <title>About</title>
-      <link>http://www.lewisajones.com/about/</link>
+      <link>www.lewisajones.com/about/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/about/</guid>
+      <guid>www.lewisajones.com/about/</guid>
       <description>Lewis A. Jones, PhD
 Postdoctoral Research Fellow
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo LewisAlan.Jones@uvigo.es
@@ -61,10 +61,10 @@ I am a computational palaeobiologist investigating the drivers of biodiversity p
     
     <item>
       <title>Publications</title>
-      <link>http://www.lewisajones.com/publications/</link>
+      <link>www.lewisajones.com/publications/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/publications/</guid>
+      <guid>www.lewisajones.com/publications/</guid>
       <description>Peer-reviewed publications Lewis A. Jones, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (In press). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. Nature Communications.
  Lewis A. Jones and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. Geology 50 (2), 238–242. View graphical abstract.
  Lewis A. Jones, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021).</description>
@@ -72,28 +72,28 @@ I am a computational palaeobiologist investigating the drivers of biodiversity p
     
     <item>
       <title>R Packages</title>
-      <link>http://www.lewisajones.com/software/</link>
+      <link>www.lewisajones.com/software/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/software/</guid>
+      <guid>www.lewisajones.com/software/</guid>
       <description>palaeoverse ‘palaeoverse’ is an R Package developed by palaeobiologists, for palaeobiologists. It provides a standardised toolkit of generic functions to carry out routine tasks in palaeobiological studies. The package offers a range of functionality including time, latitudinal, and spatial binning, palaeorotation of fossil occurrences, time series plotting, and much more. The package has two key objectives: (1) save time for palaeobiologists by providing generic and simple-use functions; and (2) generate a community-driven package.</description>
     </item>
     
     <item>
       <title>Uneven spatial sampling and reconstructing past global temperatures</title>
-      <link>http://www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</link>
+      <link>www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</guid>
+      <guid>www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</guid>
       <description>Accounting for the spatial nature of proxy records is crucial to improving reconstructions of past global temperature.</description>
     </item>
     
     <item>
       <title>The Latitudinal Biodiversity Gradient</title>
-      <link>http://www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</link>
+      <link>www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</guid>
+      <guid>www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</guid>
       <description>One of the most prominent macroecological patterns on Earth today.</description>
     </item>
     
