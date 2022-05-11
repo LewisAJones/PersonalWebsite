@@ -17,6 +17,6 @@ Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo
 <p align="justify">*If you are interested in joining our lab, please feel free to get in contact. We will periodically advertise opportunities for student projects, and we welcome researchers wanting to do a short stay.*</p>
 
 <p align="center">**Research Interests**</p>
-<p align="center">Computational palaeobiology, macroecology and biodiversity, fossil record bias, corals and reef ecosystems, palaeoclimate, ecological niche modelling, and R programming.</p>
+<p align="justify">Computational palaeobiology, macroecology and biodiversity, fossil record bias, corals and reef ecosystems, palaeoclimate, ecological niche modelling, and R programming.</p>
 
 

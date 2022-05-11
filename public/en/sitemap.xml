@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.lewisajones.com/experience/</loc>
+    <loc>http://www.lewisajones.com/experience/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/research/</loc>
+    <loc>http://www.lewisajones.com/research/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/gallery/</loc>
+    <loc>http://www.lewisajones.com/gallery/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/about/</loc>
+    <loc>http://www.lewisajones.com/about/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/publications/</loc>
+    <loc>http://www.lewisajones.com/publications/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/software/</loc>
+    <loc>http://www.lewisajones.com/software/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/categories/</loc>
+    <loc>http://www.lewisajones.com/categories/</loc>
     <lastmod>2021-11-10T13:32:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.lewisajones.com/es/categories/"
+                href="http://www.lewisajones.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.lewisajones.com/categories/"
+                href="http://www.lewisajones.com/categories/"
                 />
   </url><url>
-    <loc>https://www.lewisajones.com/categories/fossil-record-bias/</loc>
+    <loc>http://www.lewisajones.com/categories/fossil-record-bias/</loc>
     <lastmod>2021-11-10T13:32:22+01:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/</loc>
+    <loc>http://www.lewisajones.com/</loc>
     <lastmod>2021-11-10T13:32:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.lewisajones.com/es/"
+                href="http://www.lewisajones.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.lewisajones.com/"
+                href="http://www.lewisajones.com/"
                 />
   </url><url>
-    <loc>https://www.lewisajones.com/categories/palaeoclimate/</loc>
+    <loc>http://www.lewisajones.com/categories/palaeoclimate/</loc>
     <lastmod>2021-11-10T13:32:22+01:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/posts/</loc>
+    <loc>http://www.lewisajones.com/posts/</loc>
     <lastmod>2021-11-10T13:32:22+01:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/categories/spatial-sampling/</loc>
+    <loc>http://www.lewisajones.com/categories/spatial-sampling/</loc>
     <lastmod>2021-11-10T13:32:22+01:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</loc>
+    <loc>http://www.lewisajones.com/posts/2021/11/uneven-spatial-sampling-and-reconstructing-past-global-temperatures/</loc>
     <lastmod>2021-11-10T13:32:22+01:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</loc>
+    <loc>http://www.lewisajones.com/posts/2021/04/the-latitudinal-biodiversity-gradient/</loc>
     <lastmod>2021-04-30T13:11:34+01:00</lastmod>
   </url><url>
-    <loc>https://www.lewisajones.com/series/</loc>
+    <loc>http://www.lewisajones.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.lewisajones.com/es/series/"
+                href="http://www.lewisajones.com/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.lewisajones.com/series/"
+                href="http://www.lewisajones.com/series/"
                 />
   </url><url>
-    <loc>https://www.lewisajones.com/tags/</loc>
+    <loc>http://www.lewisajones.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.lewisajones.com/es/tags/"
+                href="http://www.lewisajones.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.lewisajones.com/tags/"
+                href="http://www.lewisajones.com/tags/"
                 />
   </url>
 </urlset>
