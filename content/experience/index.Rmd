@@ -86,7 +86,7 @@ Muffin Break, Grimsby, UK
 
 1. <p align="justify">**Lewis A. Jones**. (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*.</p>
 
-1. <p align="justify">**Lewis A. Jones**. (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master's Thesis. *Supervisor: Dr David Bond*. </p>
+1. <p align="justify">**Lewis A. Jones**. (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. *Supervisor: Dr David Bond*. </p>
 
 #### **Other works**
 
@@ -161,11 +161,11 @@ Logging, sampling, and fossil prospecting across the Cenomanian/Turonian boundar
 <br>
 **Somerset, Lyme Regis, and Newark, UK** (2015)
 <br>
-Logging, sampling, and geochemical analysis of the Triassic/Jurassic boundary  
+Logging, sampling, and geochemical analysis across the Triassic/Jurassic boundary  
 <br>
 **Koh Rong, Cambodia** (2012)
 <br>
-Marine biology surveys as part of Koh Rong's coral reef monitoring project
+Marine biological surveys as part of Koh Rong's (Cambodia) coral reef monitoring project
 
 ### <span style="color: #ed4d7e;">Professional development </span>
 
@@ -192,6 +192,10 @@ University of Porto, Porto, Portugal
 **Introduction to ecological niche modelling** (2017)
 <br>
 Transmitting Science, Barcelona, Spain  
+<br>
+**Introduction to coral identification** (2017)
+<br>
+European Coral Reef Symposium, Oxford, UK  
 <br>
 **Introduction to larval dispersal modelling** (2017)
 <br>
@@ -230,15 +234,20 @@ Woodward Buildings, Imperial College London, London, UK
 
 ### <span style="color: #ed4d7e;">Professional service and outreach</span>
 
+**IFCRS Early Career Researcher Representative** (2021--current)
+<br>
+Committee member of the International Fossil Coral and Reef Society (IFCRS)
+<br>  
+
 **IFCRS Lecture Series** (2022)
 <br>
-International Fossil Coral and Reef Society (IFCRS), Online
+International Fossil Coral and Reef Society, Online
 <br>
 Co-organised and ran a lecture series on fossil corals and reefs
 
 **IFCRS Early Career Researcher Symposium** (2021)
 <br>
-International Fossil Coral and Reef Society (IFCRS), Online
+International Fossil Coral and Reef Society, Online
 <br>
 Co-organised and ran an early career researcher meeting on fossil corals and reefs
 
@@ -269,11 +278,11 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 ### <span style="color: #ed4d7e;">Skills </span>
 **R programming**
 <br>
-Advanced proficiency in data analysis and visualization, writing functions, packages, pipeline development
+Advanced proficiency in data analysis, data visualization, writing functions and packages
 <br>  
-**Spatial analysis**
+**Geocomputation**
 <br>
-Proficient in spatial analysis and R spatial packages (e.g. raster, sf, sp)
+Proficient in spatial analysis and the use of R spatial packages (e.g. raster, terra, sf, sp)
 <br>  
 **Languages**
 <br>
@@ -287,13 +296,13 @@ BSAC-accredited Ocean and Sports Diver
 <br>  
 **First-Aid**
 <br>
-Emergency first-aid at work & automated external defibrillator trained
+Emergency first-aid at work & automated external defibrillator
 <br>
-Outdoors emergency first-aid trained
+Outdoors emergency first-aid
 <br>
-Mental health first-aid trained
+Mental health first-aid
 <br>
-Active-bystander trained
+Active-bystander
 <br>  
 **Driving**
 <br>
