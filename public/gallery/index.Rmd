@@ -6,7 +6,7 @@ date: 2022-05-07
 Now and then, I take photographs. Here are some shots I have collected over the years.
 
 <p align="center">
-![White Sands, USA](White_Sands.jpg){width=100%}White Sands, USA.  
+![White Sands, USA](White_Sands.heic){width=100%}White Sands, USA.  
 <br>
 ![Overpass](Overpass.jpg){width=100%}Wolf Creek, USA.  
 <br>
