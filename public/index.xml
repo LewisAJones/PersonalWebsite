@@ -76,7 +76,7 @@ Harbin, China. </description>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://lewisajones.com/software/</guid>
-      <description>palaeoverse ‘palaeoverse’ is an R Package developed by palaeobiologists, for palaeobiologists. It provides a standardised toolkit of generic functions to carry out routine tasks in palaeobiological studies. The package offers a range of functionality including time, latitudinal, and spatial binning, palaeorotation of fossil occurrences, time series plotting, and much more. The package has two key objectives: (1) save time for palaeobiologists by providing generic and simple-use functions; and (2) generate a community-driven package.</description>
+      <description>palaeoverse ‘palaeoverse’ is an R Package developed by palaeobiologists, for palaeobiologists. It provides a standardised toolkit of generic functions to carry out routine tasks in palaeobiological studies. The package offers a range of functionality including time, latitudinal, and spatial binning, palaeorotation of fossil occurrences, time series plotting, and much more. The package is freely available and has three core principles: (1) streamline data analyses; (2) enhance code readability; and (3) improve reproducibility of results.</description>
     </item>
     
     <item>
