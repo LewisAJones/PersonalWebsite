@@ -80,8 +80,12 @@ params:
       url: mailto:LewisAlan.Jones@uvigo.es
     - name: googlescholar
       url: https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl=en&authuser=1
+    - name: researchgate
+      url: https://www.researchgate.net/profile/Lewis-Jones-11
     - name: github
       url: https://github.com/LewisAJones
+    - name: linkedin
+      url: https://www.linkedin.com/in/lewisajones/
 languages:
   en:
     copyright: <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
