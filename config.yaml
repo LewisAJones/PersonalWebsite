@@ -73,6 +73,7 @@ params:
     logoHomeLink: /
     logoMark: '>'
     logoText: Hello, world!
+    logoCursorColor: "#199885"
   social:
     - name: twitter
       url: https://twitter.com/LewisAlanJones

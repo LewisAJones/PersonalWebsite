@@ -10,10 +10,10 @@ Postdoctoral Research Fellow
 <br>
 Vigo, Spain
 <br>
-<span style="color: #ed4d7e;">[LewisAlan.Jones@uvigo.es](mailto:LewisAlan.Jones@uvigo.es)</span>
+<span style="color: #199885;">[LewisAlan.Jones@uvigo.es](mailto:LewisAlan.Jones@uvigo.es)</span>
 </p>
 
-### <span style="color: #ed4d7e;">Education </span>
+### <span style="color: #199885;">Education </span>
 **PhD in Earth Sciences** (2016--2020)
 <br>
 Imperial College London, London, UK
@@ -34,7 +34,7 @@ Thesis title: The End-Triassic mass extinction. An investigation of the British 
 <br>
 Leeds University Officer Training Corps, Leeds, UK  
 
-### <span style="color: #ed4d7e;">Employment </span>
+### <span style="color: #199885;">Employment </span>
 
 **Postdoctoral Research Fellow** (2021--current)
 <br>
@@ -60,7 +60,7 @@ Republic Ltd, Grimsby and Hull, UK
 <br>
 Muffin Break, Grimsby, UK
 
-### <span style="color: #ed4d7e;">Research focus </span>
+### <span style="color: #199885;">Research focus </span>
 - Macroecology and biodiversity
 - Fossil record bias
 - Corals and reef ecosystems
@@ -68,7 +68,7 @@ Muffin Break, Grimsby, UK
 - R programming
 
 
-### <span style="color: #ed4d7e;">Publications </span>
+### <span style="color: #199885;">Publications </span>
 
 #### **Peer-reviewed publications**
 
@@ -95,7 +95,7 @@ Muffin Break, Grimsby, UK
 1. <p align="justify">**Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter 102*.</p>
 
 
-### <span style="color: #ed4d7e;">Academic awards and grants</span>
+### <span style="color: #199885;">Academic awards and grants</span>
 **CASA team hackathon award** (2019)
 <br>
 Centre for Advanced Spatial Analysis, University College London, London
@@ -120,7 +120,7 @@ University of Hull, Hull, UK
 <br>
 Awarded for best master thesis of the year group
 
-### <span style="color: #ed4d7e;">Selected conference presentations</span>
+### <span style="color: #199885;">Selected conference presentations</span>
 
 <p align="justify">**The Palaeontological Association: Annual Meeting** (2019)
 <br>
@@ -153,7 +153,7 @@ Poster: Ecological niche modelling in deep time: constraining the transitional d
 Poster: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial</p>
 
 
-### <span style="color: #ed4d7e;">Fieldwork experience </span>
+### <span style="color: #199885;">Fieldwork experience </span>
 
 **Colorado and New Mexico, USA** (2016)
 <br>
@@ -167,7 +167,7 @@ Logging, sampling, and geochemical analysis across the Triassic/Jurassic boundar
 <br>
 Marine biological surveys as part of Koh Rong's (Cambodia) coral reef monitoring project
 
-### <span style="color: #ed4d7e;">Professional development </span>
+### <span style="color: #199885;">Professional development </span>
 
 **Macroevolution and Phylogenies** (2022)
 <br>
@@ -201,7 +201,7 @@ European Coral Reef Symposium, Oxford, UK
 <br>
 European Coral Reef Symposium, Oxford, UK
 
-### <span style="color: #ed4d7e;">Student supervision </span>
+### <span style="color: #199885;">Student supervision </span>
 
 **Miranta Kouvari** (2019--current)
 <br>
@@ -215,7 +215,7 @@ University of Vigo, Vigo, Spain
 <br>
 Master's project: Spatial discrepancies in the palaeogeographic reconstructions
 
-### <span style="color: #ed4d7e;">Teaching and pastoral care </span>
+### <span style="color: #199885;">Teaching and pastoral care </span>
 
 **Graduate Teaching Assistant** (2016--2021)
 <br>
@@ -232,7 +232,7 @@ Imperial College London, London, UK
 Woodward Buildings, Imperial College London, London, UK
 <br>
 
-### <span style="color: #ed4d7e;">Professional service and outreach</span>
+### <span style="color: #199885;">Professional service and outreach</span>
 
 **IFCRS Early Career Researcher Representative** (2021--current)
 <br>
@@ -270,12 +270,12 @@ Imperial College London, London, UK
 Co-organised and ran the annual meeting of the Palaeontological Association
 <br>  
 
-### <span style="color: #ed4d7e;">Peer-review experience</span>
+### <span style="color: #199885;">Peer-review experience</span>
 *Scientific Reports*
 <br>
 *Ecological Monographs*
 
-### <span style="color: #ed4d7e;">Skills </span>
+### <span style="color: #199885;">Skills </span>
 **R programming**
 <br>
 Advanced proficiency in data analysis, data visualization, writing functions and packages
@@ -308,7 +308,7 @@ Active-bystander
 <br>
 Full UK driving license
 
-### <span style="color: #ed4d7e;">Memberships </span>
+### <span style="color: #199885;">Memberships </span>
 Member of the International Fossil Coral and Reef Society (2018–present)
 <br>
 Member of the Palaeontological Association (2017–present)
