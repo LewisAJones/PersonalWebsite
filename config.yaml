@@ -67,7 +67,7 @@ params:
       - Macroecology,
       - R Programming
   images: ''
-  justifyContent: no
+  justifyContent: yes
   keywords: 'Palaeobiology, Macroecology and R Programming'
   logo:
     logoHomeLink: /
