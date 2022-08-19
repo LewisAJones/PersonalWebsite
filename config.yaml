@@ -46,7 +46,7 @@ params:
   disableReadOtherPosts: no
   enableGlobalLanguageMenu: no
   enableSharingButtons: yes
-  enableThemeToggle: no
+  enableThemeToggle: yes
   favicon:
     color:
       mask: '#1b1c1d'
