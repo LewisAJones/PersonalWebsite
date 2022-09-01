@@ -6,7 +6,7 @@ date: 2022-05-07
 **Lewis A. Jones, PhD**  
 **Postdoctoral Research Fellow**  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo
-<span style="color: #199885;">[LewisAlan.Jones@uvigo.es](mailto:LewisAlan.Jones@uvigo.es)</span>
+<span style="color: #ed4d7e;">[LewisAlan.Jones@uvigo.es](mailto:LewisAlan.Jones@uvigo.es)</span>
 
 ![](IMG_2597.jpg){width=100%}
 

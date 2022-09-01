@@ -71,9 +71,9 @@ params:
   keywords: 'Palaeobiology, Macroecology and R Programming'
   logo:
     logoHomeLink: /
-    logoMark: '>'
-    logoText: Hello, world!
-    logoCursorColor: "#199885"
+    logoMark: '>$'
+    logoText: cd /home/
+    logoCursorColor: "#ed4d7e"
   social:
     - name: twitter
       url: https://twitter.com/LewisAlanJones

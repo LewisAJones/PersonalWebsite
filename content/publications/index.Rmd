@@ -3,7 +3,7 @@ title: "Publications"
 author: "Lewis A. Jones"
 date: 2022-05-07
 ---
-## **Peer-reviewed publications**
+## <span style="color: #ed4d7e">Peer-reviewed publications</span>
 
 1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs.](https://www.nature.com/articles/s41467-022-30793-8) *Nature Communications*. 13 (3120), 1--10. [View graphical abstract.](NatComms-GA.jpg)</p>
 
@@ -15,13 +15,15 @@ date: 2022-05-07
 
 1. Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1--14. [View graphical abstract.](NatCommsDino-GA.jpg)</p>
 
-## **Theses**
+## <span style="color: #ed4d7e">Theses</span>
 
 1. **Lewis A. Jones**. (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*.
 
 1. **Lewis A. Jones**. (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master's Thesis. *Supervisor: Dr David Bond*. 
 
-## **Other works**
+## <span style="color: #ed4d7e">Other works</span>
+
+1. **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf). *The Palaeontological Association Newsletter 110*.
 
 1. Michael C. A. Stevens, Yiqiao Chen, Alex Stringer, Caitlin Clemmow, and **Lewis A. Jones** (2020). [Key factors driving obesity in the UK](http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_17.pdf). *Geographic Information System Research UK*.
 
