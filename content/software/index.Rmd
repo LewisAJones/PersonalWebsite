@@ -1,10 +1,16 @@
 ---
 title: "R Packages"
 author: "Lewis A. Jones"
-date: 2022-05-07
+date: "2022-05-07"
 ---
 ### <span style="color: #ed4d7e"><a href="https://palaeoverse.org" style="text-decoration: none;">palaeoverse</a></span> 
 
 <p align="justify">The palaeoverse R package is a community-driven toolkit to support the preparation and exploration of palaeobiological data. The package provides a suite of auxiliary functions, is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/palaeoverse/index.html" style="text-decoration: none;">CRAN</a></span>. palaeoverse has three core principles: (1) streamline data preparation and exploration; (2) enhance code readability; and (3) improve reproducibility of results. It is my hope that over time, palaeoverse will be adopted and developed by the community, with contributors and users from across the globe.
 
-![](./logo.png){width=15%}
+![](./logo_palaeoverse.png){width=15%}
+
+### <span style="color: #ed4d7e"><a href="https://github.com/LewisAJones/sepkoski" style="text-decoration: none;">sepkoski</a></span> 
+
+<p align="justify">The sepkoski R package is a light and easy solution to access Sepkoski's fossil marine animal genera compendium. The package provides access to the raw dataset, a dataset with intervals standardised to the International Geological Time Scale, and plotting functionality for reproducing Sepkoski's Phanerozoic curve. The package is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/sepkoski/index.html" style="text-decoration: none;">CRAN</a></span>.
+
+![](./logo_sepkoski.png){width=15%}
