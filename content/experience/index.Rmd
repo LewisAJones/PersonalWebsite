@@ -36,7 +36,11 @@ Leeds University Officer Training Corps, Leeds, UK
 
 ### <span style="color: #ed4d7e;">Employment </span>
 
-**Postdoctoral Research Fellow** (2021--current)
+**Postdoctoral Research Fellow (Juan de la Cierva)** (2023--current)
+<br>
+Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain  
+<br>
+**Postdoctoral Research Fellow (European Research Council)** (2021--2022)
 <br>
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain  
 <br>
@@ -100,6 +104,12 @@ Muffin Break, Grimsby, UK
 
 
 ### <span style="color: #ed4d7e;">Academic awards and grants</span>
+**R for Palaeobiologists: Workshop and Hackathon** (2022)
+<br>
+Grant-in-Aid from The Palaeontological Association, UK
+<br>
+Value: 2000 GBP
+<br>  
 **CASA team hackathon award** (2019)
 <br>
 Centre for Advanced Spatial Analysis, University College London, London
@@ -122,7 +132,6 @@ Value: 70,000 GBP
 <br>
 University of Hull, Hull, UK
 <br>
-Awarded for best master thesis of the year group
 
 ### <span style="color: #ed4d7e;">Invited presentations</span>
 
@@ -137,6 +146,14 @@ Talk: Ecological modelling in Geosciences
 
 ### <span style="color: #ed4d7e;">Selected conference presentations</span>
 
+<p align="justify">**The Palaeontological Association: Annual Meeting** (2022)
+<br>
+Poster: Niche characterisation is biased by limited and heterogeneous spatial sampling
+</p>
+<p align="justify">**Simposio de Paleontologia del noroeste peninsular** (2022)
+<br>
+Poster: palaeoverse: a community-driven R package
+</p>
 <p align="justify">**The Palaeontological Association: Annual Meeting** (2019)
 <br>
 Talk: Poor spatial sampling coverage obscures our understanding of the latitudinal biodiversity gradient in deep time
@@ -170,6 +187,10 @@ Poster: Anthropogenic climate change and transitional distribution ranges of ree
 
 ### <span style="color: #ed4d7e;">Fieldwork experience </span>
 
+**León, Spain** (2022)
+<br>
+Logging and bulk sampling of Devonian sequences  
+<br>
 **Colorado and New Mexico, USA** (2016)
 <br>
 Logging, sampling, and fossil prospecting across the Cenomanian/Turonian boundary  
@@ -228,7 +249,7 @@ PhD project: The latitudinal biodiversity gradient of South American eutherians
 <br>
 University of Vigo, Vigo, Spain
 <br>
-Master's project: Spatial discrepancies in the palaeogeographic reconstructions
+Master's project: Spatial discrepancies in palaeogeographic reconstructions
 
 ### <span style="color: #ed4d7e;">Teaching and pastoral care </span>
 
@@ -287,6 +308,8 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 
 ### <span style="color: #ed4d7e;">Peer-review experience</span>
 *Science Advances*
+<br>
+*Nature Communications* 
 <br>
 *Scientific Reports*
 <br>
