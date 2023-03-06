@@ -19,15 +19,6 @@
     background: $light-background-header;
   }
 
-  @media #{$media-size-phone} {
-    position: absolute;
-    top: 50px;
-    right: 0;
-    border: none;
-    margin: 0;
-    padding: 10px;
-  }
-
   &__inner {
     display: flex;
     align-items: center;
@@ -62,6 +53,9 @@
     cursor: pointer;
     display: none;
 
+    @media #{$media-size-phone} {
+      display: block;
+    }
   }
 
   a {
