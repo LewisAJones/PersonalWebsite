@@ -62,9 +62,6 @@
     cursor: pointer;
     display: none;
 
-    @media #{$media-size-phone} {
-      display: block;
-    }
   }
 
   a {
