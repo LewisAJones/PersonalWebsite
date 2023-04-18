@@ -5,6 +5,8 @@ date: 2022-05-07
 ---
 ## <span style="color: #ed4d7e">Peer-reviewed publications</span>
 
+1. <p align="justify">**Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution*. [View video abstract.](https://www.youtube.com/watch?v=7LDNm6P20aI)</p>
+
 1. <p align="justify">**Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs.](https://www.nature.com/articles/s41467-022-30793-8) *Nature Communications* 13 (3120), 1--10. [View graphical abstract](NatComms-GA.jpg).</p>
 
 1. <p align="justify">**Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238--242. [View graphical abstract](https://pbs.twimg.com/media/FDyMbOZXIAYX2rp?format=jpg&name=4096x4096).</p>
