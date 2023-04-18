@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 author: "Lewis A. Jones"
-date: 2022-05-07
+date: "2022-05-07"
 ---
 ## <span style="color: #ed4d7e">Peer-reviewed publications</span>
 
