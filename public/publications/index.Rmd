@@ -25,8 +25,6 @@ date: 2022-05-07
 
 ## <span style="color: #ed4d7e">Other works</span>
 
-1. <p align="justify">**Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2022). [palaeoverse:a community-driven R package to support palaeobiological analyses](https://eartharxiv.org/repository/view/4619/). *EarthArXiv*.</p>
-
 1. <p align="justify">**Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf). *The Palaeontological Association Newsletter 110*.</p>
 
 1. <p align="justify">Michael C. A. Stevens, Yiqiao Chen, Alex Stringer, Caitlin Clemmow, and **Lewis A. Jones** (2020). [Key factors driving obesity in the UK](http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_17.pdf). *Geographic Information System Research UK*.</p>
